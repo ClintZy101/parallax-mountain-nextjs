@@ -1,0 +1,5 @@
+export const first = "#b6aea0"
+export const second = "#848582"
+export const third = "#2e2823"
+export const fourth = "#dcdbca"
+export const fifth = "#5c6c5c"
